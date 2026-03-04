@@ -1,3 +1,4 @@
+# Files the tools can identify
 {
   "PDF": { "ext": ".pdf", "sigs": ["25504446"] },
   "PNG": { "ext": ".png", "sigs": ["89504E470D0A1A0A"] },
@@ -6,3 +7,4 @@
   "ZIP": { "ext": ".zip", "sigs": ["504B0304", "504B0506", "504B0708"] },
   "EXE": { "ext": ".exe", "sigs": ["4D5A"] }
 }
+
